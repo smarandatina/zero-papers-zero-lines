@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supplement_diploma>
+	<diploma>
+		<title> SUPLIMENT DIPLOMA </title>
+		<data> 1. DATE DE IDENTIFICARE A TITULARULUI </data>
+		<name> Nume </name>
+		<firstname> 1.1 Alexandru </firstname>
+		<lastname> 1.2 IONESCU </lastname>
+		<birthday> 1.3 Data nasterii (zz/ll/aaaa)</birthday>
+		<birth_day>  10-09-1998 </birth_day>
+		<number> Numar matricol/ Cod de identificare al studentului (daca este cazul)</number>
+		<number> 126489 </number>
+	</diploma>
+	<diploma>
+		<information> 2. INFORMATII PRIVIND CALIFICAREA : Denumirea calificarii si (daca este cazul) titlul acordat (in limba romana) </information>
+		<domain> 2.1 Domeniul(ile) de studiu </domain>
+		<activity> 2.2 Economist </activity>
+		<faculty_name> 2.3 Numele si statutul institutiei care acorda diploma (in limba romana)</faculty_name>
+		<faculty> 2.4 Academia de Studii Economice, Bucuresti Numele si statutul institutiei (daca difera de 2.3) care administreaza studiile (in limba romana)</faculty>
+		<languages> 2.5 Limba(ile) de studiu/examinare </languages>
+		<languages> Romana </languages>
+	</diploma>
+	<diploma>
+		<information> 3. INFORMATII PRIVIND NIVELUL CALIFICARII </information>
+		<level> 3.1 Nivelul calificarii </level>
+		<level_study> Licentiat in economie </level_study>
+		<duration> 3.2 Durata oficiala a programului de studiu </duration>
+		<years> 4 ani </years>
+		<criteria> 3.3 Criterii de admitere </criteria>
+	</diploma>
+	<diploma>
+		<study_program> 4. INFORMATII PRIVIND PROGRAMUL DE STUDII </study_program>
+		<study_form> 4.1 Forma de invatamant si rezultatele obtinute </study_form>
+		<requirements> 4.2 Cerintele programului </requirements>
+		<details> 4.3 Detalii asupra programului (ex. module sau unitati de studiu), calificativele/notele/creditele obtinute </details>
+		<notes> 4.4  Sistemul de notare, si, daca sunt posibile, informatii privind distributia statistica a notelor </notes>
+		<final_note> 4.5 Media finala (in limba romana) </final_note>
+	</diploma>
+	<diploma>
+		<rights> 5. INFORMATII PRIVIND DREPTURILE CONFERITE DE CALIFICARE </rights>
+		<profession> Statutul profesional </profession>
+		<acces> 5.1 Acces la continuarea studiilor </acces>
+	</diploma>
+	<diploma>
+		<supplementary_information> 6. INFORMATII SUPLIMENTARE </supplementary_information>
+		<info> 6.1 Informatii suplimentare </info>
+		<sources> 6.2 Alte surse pentru obtinerea mai multor informatii </sources>
+	</diploma>
+	<diploma>
+		<legality> 7. LEGALITATEA SUPLIMENTULUI </legality>
+		<data> Data </data>
+		<signature> 7.1 Semnatura </signature>
+		<function> 7.2 Functia </function>
+		<stamp> 7.3 Stampila sau sigiliul oficial </stamp>
+	</diploma>
+	<diploma>
+		<info_system> 8. INFORMATII PRIVIND SISTEMUL NATIONAL DE INVATAMANT </info_system>
+	</diploma>
+</supplement_diploma>
